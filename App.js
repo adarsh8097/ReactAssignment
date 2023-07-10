@@ -6,10 +6,10 @@ class App extends Component{
     render(){
           <div id="main">
             <ol key={'relativeList'}>
-                <li key={'relativeList1'}> Adarsh</li>
-                <li key={'relativeList2'}>Aswath</li>
-                <li key={'relativeList3'}>Kunal</li>
-                <li key={'relativeList4'}>Rupal</li>
+                <li key={'relativeListItem1'}> Adarsh</li>
+                <li key={'relativeListItem12'}>Aswath</li>
+                <li key={'relativeListItem13'}>Kunal</li>
+                <li key={'relativeListItem14'}>Rupal</li>
             </ol>
           </div>
 
